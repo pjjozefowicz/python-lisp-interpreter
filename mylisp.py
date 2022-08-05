@@ -1,7 +1,7 @@
 #### mylisp.py
 #
 # Based on Peter Norvig's lispy (http://norvig.com/lispy.html) and 
-# Michael Nielsen's tiddylisp (https://michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/)
+# Michael Nielsen's tiddlylisp (https://michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/)
 
 import sys
 import traceback
